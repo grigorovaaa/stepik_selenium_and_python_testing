@@ -5,3 +5,5 @@
 
 весь код находится в дирректории **src**
 
+## make
+pip install selenium==3.14.0
